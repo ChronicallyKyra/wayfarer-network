@@ -1,6 +1,6 @@
 # wayfarer-network
 
-<p>~Welcome, Traveller</p>
+<p>~Welcome, Traveller~</p>
 
 
 Some kind of network of AU/storytelling sites or in-verse internets.
